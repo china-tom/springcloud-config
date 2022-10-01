@@ -1,6 +1,6 @@
 info:
   profile: prod
 config:
-  info: prodinfo
+  info: prodinfo2
 name: Paul
 words: 'God bless you'
