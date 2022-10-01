@@ -1,5 +1,6 @@
 info:
   profile: dev
-
+config:
+  info: devinfo
 name: Saul
 words: 'God bless me'
